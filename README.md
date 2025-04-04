@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=alcatraz9.github.io&style=for-the-badge&url=https%3A%2F%2Falcatraz9.github.io/)](https://alcatraz9.github.io/)
 
-- 🔭 I am currently a student at NIT Rourkela
+- 🔭 I am currently a working at GEP
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim and play football
 
 ### Connect with me:
